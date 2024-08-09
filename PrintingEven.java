@@ -10,6 +10,7 @@ public class PrintingEven
      for(int i=0;i<=word.length-1;i++)
      {
         wordLength[i]=word[i].length();
+        
     }
     for(int i=0;i<=word.length-1;i++)
     {

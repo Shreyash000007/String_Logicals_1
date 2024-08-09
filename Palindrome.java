@@ -6,7 +6,8 @@ public void pal(String word)
     String rev="";//Empty String
 
     String temp=word;
-
+ 
+    
     for(int i=word.length()-1;i>=0;i--)
     {
        rev=rev+word.charAt(i);
